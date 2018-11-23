@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Token-Bank-App</string>
+    <string name="generar_token">Generar Token</string>
+    <string name="token">Token</string>
+</resources>
